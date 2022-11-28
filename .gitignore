@@ -1,5 +1,6 @@
 /base
 /archived
+/php-webService-api.peopleapp.com-v1
 # Add all latex temporary files to the ignore list
 *.aux
 *.bbl
@@ -30,3 +31,5 @@
 *images
 *build
 *report/
+# *php-webService-api.peopleapp.com-v1/
+*.py
