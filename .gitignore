@@ -21,7 +21,12 @@
 *.gls
 *.ist
 *.fls
+*.tex
+*.bib
 *.fdb_latexmk
 *.synctex.gz
 *.synctex(busy)
 *.synctex.gz(busy)
+*images
+*build
+*report
