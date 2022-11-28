@@ -29,4 +29,4 @@
 *.synctex.gz(busy)
 *images
 *build
-*report
+*report/
